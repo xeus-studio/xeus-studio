@@ -28,6 +28,8 @@ Search for educational videos, save useful resources, organize notes and track w
 
 [View live app](https://learnly.xeusdev.com/)
 
+![learnly — live app screenshot](assets/screenshots/learnly.jpg)
+
 ### 💳 Xtracker — Subscription manager
 Track recurring subscriptions, review upcoming charges and manage billing dates from a single dashboard.
 
@@ -35,12 +37,16 @@ Track recurring subscriptions, review upcoming charges and manage billing dates 
 
 [View live app](https://xtracker.xeusdev.com/)
 
+![xtracker — live app screenshot](assets/screenshots/xtracker.jpg)
+
 ### 🛒 TechX — Multi-vendor electronics marketplace
 An e-commerce marketplace project designed around vendors, product listings, shopping experiences and payment integration.
 
 **Stack:** React · TypeScript · Vite · Tailwind CSS · Express · Supabase · Stripe Connect
 
 [View live app](https://techx-marketplace.vercel.app/)
+
+![techx — live app screenshot](assets/screenshots/techx.jpg)
 
 ### 🤖 Scoutwork — AI-assisted client acquisition
 A workspace concept for generating proposals, organizing leads, learning from successful pitches and managing outreach.
@@ -56,7 +62,10 @@ A finance application for visibility into cash, invoices, expenses, budgets and 
 
 [View live app](https://finanx.xeusdev.com/)
 
+![finanx — live app screenshot](assets/screenshots/finanx.jpg)
+
 ### 📣 Xeus Reach — Outreach dashboard
+**Status:** In development; live demo coming later.
 A lightweight internal dashboard project for managing outreach workflows, with planned views for accounts, leads, campaigns, inbox and queue.
 
 **Focus:** Outreach operations · Supabase Auth · TypeScript · Tailwind CSS
@@ -67,6 +76,8 @@ The digital home for Xeus Dynamics, focused on technology, AI and business autom
 **Focus:** Web presence · Digital services · Automation
 
 [View live app](https://xeusdynamics.com/)
+
+![xeus-dynamics — live app screenshot](assets/screenshots/xeus-dynamics.jpg)
 
 ---
 
